@@ -13,11 +13,30 @@ body {
 @media screen and (min-width: 994px){
 .form-control {
     width: 350px;
-}
+    }
 }
 
-@media screen and (max-width: 994px){
+@media screen and (max-width: 994px) {
     .navbar-nav {
         text-align: center;
     }
-    }
+}
+
+.img-kategori {
+    width: 50px;
+}
+
+.img-kategori:hover {
+    transform: scale(1.2);
+    transition: 0.2s;
+}
+
+.row-container {
+    background-color: #fff;
+    margin: 0px;
+}
+
+.judul-kategori {
+    background-color: #fff;
+    padding: 5px 10px;
+}

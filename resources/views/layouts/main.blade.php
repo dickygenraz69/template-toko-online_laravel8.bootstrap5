@@ -16,10 +16,7 @@
 
     @include('partials.navbar')
 
-
-    <div class="container mt-4">
-        @yield('container')
-    </div>
+    @yield('konten')
 
     <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
 
