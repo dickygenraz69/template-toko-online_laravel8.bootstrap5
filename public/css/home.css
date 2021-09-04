@@ -40,3 +40,12 @@ body {
     background-color: #fff;
     padding: 5px 10px;
 }
+
+.judul-produk {
+    background-color: #fff;
+    padding: 5px 10px;
+}
+
+.card:hover {
+    border: 1px solid #2D2D2D;
+}

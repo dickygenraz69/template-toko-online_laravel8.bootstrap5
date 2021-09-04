@@ -97,4 +97,173 @@
         </div>
     </div>
 
+    <div class="container mt-5">
+        <div class="judul-produk">
+            <h5 class="text-center" style="margin-top: 5px;">PRODUK</h5>
+        </div>
+        <div class="row">
+            <div class="col-lg-2 col-md-2 col-sm-4 col-6 mt-2">
+                <div class="card text-center">
+                    <img src="assets/produk/produk1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h6 class="card-title">Headset</h6>
+                      <div class="icon-bintang" style="color: orange;">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                      <p class="card-text mt-2">Rp 270.000,-</p>
+                      <a href="#" class="btn btn-dark d-grid">Beli</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-6 mt-2">
+                <div class="card text-center">
+                    <img src="assets/produk/produk2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h6 class="card-title">Kemeja</h6>
+                      <div class="icon-bintang" style="color: orange;">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                      <p class="card-text mt-2">Rp 80.000,-</p>
+                      <a href="#" class="btn btn-dark d-grid">Beli</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-6 mt-2">
+                <div class="card text-center">
+                    <img src="assets/produk/produk3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h6 class="card-title">Sepatu</h6>
+                      <div class="icon-bintang" style="color: orange;">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                      <p class="card-text mt-2">Rp 165.000,-</p>
+                      <a href="#" class="btn btn-dark d-grid">Beli</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-6 mt-2">
+                <div class="card text-center">
+                    <img src="assets/produk/produk4.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h6 class="card-title">Jam Tangan</h6>
+                      <div class="icon-bintang" style="color: orange;">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                      <p class="card-text mt-2">Rp 100.000,-</p>
+                      <a href="#" class="btn btn-dark d-grid">Beli</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-6 mt-2">
+                <div class="card text-center">
+                    <img src="assets/produk/produk5.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h6 class="card-title">Hand Sanitizer</h6>
+                      <div class="icon-bintang" style="color: orange;">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                      <p class="card-text mt-2">Rp 35.000,-</p>
+                      <a href="#" class="btn btn-dark d-grid">Beli</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-6 mt-2">
+                <div class="card text-center">
+                    <img src="assets/produk/produk6.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h6 class="card-title">Tas</h6>
+                      <div class="icon-bintang" style="color: orange;">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                      <p class="card-text mt-2">Rp 97.000,-</p>
+                      <a href="#" class="btn btn-dark d-grid">Beli</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-6 mt-2">
+                <div class="card text-center">
+                    <img src="assets/produk/produk7.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h6 class="card-title">Kamera</h6>
+                      <div class="icon-bintang" style="color: orange;">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                      <p class="card-text mt-2">Rp 3.700.000,-</p>
+                      <a href="#" class="btn btn-dark d-grid">Beli</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-6 mt-2">
+                <div class="card text-center">
+                    <img src="assets/produk/produk8.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h6 class="card-title">Celana</h6>
+                      <div class="icon-bintang" style="color: orange;">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                      <p class="card-text mt-2">Rp 320.000,-</p>
+                      <a href="#" class="btn btn-dark d-grid">Beli</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-2 col-md-2 col-sm-4 col-6 mt-2">
+                <div class="card text-center">
+                    <img src="assets/produk/produk9.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h6 class="card-title">Keyboard</h6>
+                      <div class="icon-bintang" style="color: orange;">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="far fa-star"></i>
+                      </div>
+                      <p class="card-text mt-2">Rp 125.000,-</p>
+                      <a href="#" class="btn btn-dark d-grid">Beli</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 @endsection
