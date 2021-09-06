@@ -1,5 +1,7 @@
 @extends('layouts.main')
-
+@section('css')
+    <link rel="stylesheet" href="css/home.css">
+@endsection
 @section('konten')
     <div class="container">
         @include('partials.carousel')
